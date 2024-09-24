@@ -11,27 +11,27 @@
             {
                 "name": "Violin",
                 "image": "violin",
-                "description": "A wooden chordophone."
+                "description": "A wooden chordophone.\n\nThe violin is one of the smallest and highest-pitched string instruments. It is played by drawing a bow across the strings and is a cornerstone of classical music, often used in orchestras and chamber music."
             },
             {
                 "name": "Cello",
                 "image": "cello",
-                "description": "A large string instrument with a deep sound."
+                "description": "A large string instrument with a deep sound.\n\nThe cello produces rich, warm tones that can mimic the human voice. Its versatility makes it ideal for both solo performances and as part of an ensemble, giving depth to orchestral pieces."
             },
             {
                 "name": "Double Bass",
                 "image": "double_bass",
-                "description": "The largest string instrument in the orchestra."
+                "description": "The largest string instrument in the orchestra.\n\nThe double bass provides the foundation of the string section, producing the lowest notes. It is widely used in classical, jazz, and even some rock and pop settings, offering deep, resonant sounds."
             },
             {
                 "name": "Harp",
                 "image": "harp",
-                "description": "A multi-stringed instrument played by plucking."
+                "description": "A multi-stringed instrument played by plucking.\n\nThe harp is a visually striking instrument with a unique, ethereal sound. With many strings of different lengths, the harp can produce both melody and harmony, commonly used in classical and folk music."
             },
             {
                 "name": "Mandolin",
                 "image": "mandolin",
-                "description": "A stringed instrument with a teardrop shape."
+                "description": "A stringed instrument with a teardrop shape.\n\nThe mandolin is known for its bright, crisp sound. With eight strings arranged in pairs, it is often used in bluegrass, folk, and classical music, adding a lively texture to ensembles."
             }
         ]
     },
@@ -42,32 +42,32 @@
             {
                 "name": "Drums",
                 "image": "drums",
-                "description": "A musical instrument played by striking."
+                "description": "A musical instrument played by striking.\n\nThe drum kit, commonly used in rock, jazz, and pop, consists of multiple drums and cymbals. Drums are the backbone of rhythm in many types of music, providing tempo and dynamic energy."
             },
             {
                 "name": "Tambourine",
                 "image": "tambourine",
-                "description": "A musical instrument consisting of a frame."
+                "description": "A musical instrument consisting of a frame.\n\nThe tambourine is a versatile percussion instrument used in many genres. Its jingling metal discs and drumhead can be played by shaking or striking, adding texture and rhythm to music."
             },
             {
                 "name": "Conga",
                 "image": "conga",
-                "description": "A tall, narrow, single-headed drum."
+                "description": "A tall, narrow, single-headed drum.\n\nThe conga is an Afro-Cuban drum that is played with the hands. Its deep, resonant tones make it an essential element in Latin music, but it is also widely used in jazz and fusion."
             },
             {
                 "name": "Bongos",
                 "image": "bongos",
-                "description": "A pair of small, open-bottomed drums."
+                "description": "A pair of small, open-bottomed drums.\n\nBongos are played with the hands and often used in Cuban music. The high-pitched, fast rhythms they produce are crucial in Latin dance music, adding a bright, lively element to performances."
             },
             {
                 "name": "Xylophone",
                 "image": "xylophone",
-                "description": "A percussion instrument with wooden bars."
+                "description": "A percussion instrument with wooden bars.\n\nThe xylophone is known for its bright, percussive sound, created by striking wooden bars with mallets. It is used in orchestras, bands, and solo performances, offering a sharp, resonant tone."
             },
             {
                 "name": "Timpani",
                 "image": "timpani",
-                "description": "Kettle drums that can be tuned to different pitches."
+                "description": "Kettle drums that can be tuned to different pitches.\n\nTimpani are large, tunable drums that produce powerful, resonant sounds. They are a staple in classical orchestras, adding depth and drama to symphonic works."
             }
         ]
     },
@@ -78,32 +78,32 @@
             {
                 "name": "Flute",
                 "image": "flute",
-                "description": "A woodwind instrument that produces sound by air."
+                "description": "A woodwind instrument that produces sound by air.\n\nThe flute is one of the oldest instruments, known for its clear, bright tone. It is played by blowing air across the mouthpiece, and is used in orchestras, bands, and solo performances."
             },
             {
                 "name": "Clarinet",
                 "image": "clarinet",
-                "description": "A single-reed woodwind instrument."
+                "description": "A single-reed woodwind instrument.\n\nThe clarinet has a smooth, mellow sound that is used in classical, jazz, and marching bands. Its wide range allows for both high and low notes, making it a versatile instrument."
             },
             {
                 "name": "Saxophone",
                 "image": "saxophone",
-                "description": "A brass instrument with a single-reed mouthpiece."
+                "description": "A brass instrument with a single-reed mouthpiece.\n\nThe saxophone is known for its smooth, expressive sound, commonly associated with jazz, blues, and contemporary music. Its ability to produce both powerful and soft tones makes it a favorite among soloists."
             },
             {
                 "name": "Oboe",
                 "image": "oboe",
-                "description": "A double-reed woodwind instrument."
+                "description": "A double-reed woodwind instrument.\n\nThe oboe has a penetrating, nasal tone and is often used to play the melody in orchestras. Its distinct sound can cut through other instruments, making it stand out in ensemble settings."
             },
             {
                 "name": "Bassoon",
                 "image": "bassoon",
-                "description": "A double-reed woodwind instrument with a low range."
+                "description": "A double-reed woodwind instrument with a low range.\n\nThe bassoon is one of the lower-pitched woodwind instruments. Known for its warm, rich tone, it is used to add depth to the woodwind section of orchestras."
             },
             {
                 "name": "Recorder",
                 "image": "recorder",
-                "description": "A woodwind musical instrument of the group known as fipple flutes."
+                "description": "A woodwind musical instrument of the group known as fipple flutes.\n\nThe recorder is a simple, accessible instrument, often used in early music and for teaching. Despite its simplicity, it can produce a wide range of tones, making it versatile in classical and folk music."
             }
         ]
     },
@@ -114,32 +114,32 @@
             {
                 "name": "Trumpet",
                 "image": "trumpet",
-                "description": "A brass instrument with a flared bell."
+                "description": "A brass instrument with a flared bell.\n\nThe trumpet is a bright, bold instrument used in classical, jazz, and military settings. Its clear, penetrating sound makes it perfect for leading melodies and adding power to ensemble performances."
             },
             {
                 "name": "Trombone",
                 "image": "trombone",
-                "description": "A brass instrument with a sliding mechanism."
+                "description": "A brass instrument with a sliding mechanism.\n\nThe trombone is unique among brass instruments because it uses a slide instead of valves. Its deep, rich tone is often used in orchestras, jazz bands, and marching bands to provide harmonic support."
             },
             {
                 "name": "French Horn",
                 "image": "french_horn",
-                "description": "A brass instrument with a coiled shape."
+                "description": "A brass instrument with a coiled shape.\n\nThe French horn has a smooth, mellow sound that can blend well in orchestras or stand out in solos. Its coiled tubing gives it a unique tonal range, from soft and lyrical to bold and heroic."
             },
             {
                 "name": "Tuba",
                 "image": "tuba",
-                "description": "The largest brass instrument with a deep sound."
+                "description": "The largest brass instrument with a deep sound.\n\nThe tuba provides the bass foundation for brass sections in orchestras and bands. With its deep, resonant tone, the tuba supports the harmony and adds richness to the overall sound."
             },
             {
                 "name": "Cornet",
                 "image": "cornet",
-                "description": "A brass instrument similar to the trumpet."
+                "description": "A brass instrument similar to the trumpet.\n\nThe cornet has a softer, more rounded sound compared to the trumpet. It is often used in brass bands and military bands, adding a warm, lyrical quality to ensemble performances."
             },
             {
                 "name": "Euphonium",
                 "image": "euphonium",
-                "description": "A brass instrument with a wide bore."
+                "description": "A brass instrument with a wide bore.\n\nThe euphonium is similar to the tuba but smaller in size. Its warm, rich tone makes it a key instrument in brass bands, providing both melodic and harmonic support in ensemble settings."
             }
         ]
     }

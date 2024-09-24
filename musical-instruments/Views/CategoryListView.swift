@@ -10,22 +10,20 @@ import SwiftUI
 struct CategoryListView: View {
     
     @State private var categories: [Category] = []
-
+    
     let columns = [
         GridItem(.flexible()),
         GridItem(.flexible())
     ]
-
+    
     var body: some View {
         NavigationView {
-            
             ZStack {
                 Color.brown.opacity(0.1)
                     .edgesIgnoringSafeArea(.all)
                 
                 ScrollView {
                     VStack (spacing: 20) {
-                        
                         Text("Instrument Categories")
                             .font(.system(size: 32, design: .rounded)).opacity(0.7)
                             .fontWeight(.medium)
@@ -42,18 +40,15 @@ struct CategoryListView: View {
                     .padding(20)
                     
                 }
-            
             }
-            //hide navigationtitle
             .navigationTitle("Categories")
             .navigationBarHidden(true)
-            
         }
         .onAppear{
             loadCategories()
         }
     }
-
+    
     private func loadCategories() {
         categories = DataService.loadData()
     }

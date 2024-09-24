@@ -22,9 +22,7 @@ struct InstrumentListView: View {
                 .edgesIgnoringSafeArea(.all)
             
             ScrollView {
-                
                 VStack {
-                    
                     Text(category.name)
                         .font(.system(.title, design: .rounded)).opacity(0.7)
                         .fontWeight(.medium)

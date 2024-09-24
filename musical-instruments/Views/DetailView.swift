@@ -35,14 +35,12 @@ struct DetailView: View {
                         .shadow(radius: 5)
                     
                     Text(instrument.description)
-                        .font(.system(size: 18))
+                        .font(.system(size: 18, weight: .regular))
+                        .shadow(color: .black.opacity(0.2), radius: 1)
                         .frame(maxWidth: 280)
                         .padding()
                     
                     Spacer()
-                    
-                    
-                    
                 }
                 .padding(.top, 20)
             }

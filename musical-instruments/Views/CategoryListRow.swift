@@ -23,12 +23,9 @@ struct CategoryListRow: View {
                 .font(.system(size: 30, weight: .medium, design: .rounded))
                 .padding(.leading, 20)
                 .padding(.trailing, 20)
-                .foregroundColor(.black.opacity(0.7)) // Optional: set text color
-//                .border(.black, width: 1)
+                .foregroundColor(.black.opacity(0.7))
                 .tracking(3)
                 .multilineTextAlignment(.leading)
-                
-                
             
             Spacer()
         }
@@ -37,13 +34,9 @@ struct CategoryListRow: View {
         .padding(.vertical, 15)
         .background(
             RoundedRectangle(cornerRadius: 20)
-                .fill(Color.white) // Background color of the rectangle
-                .shadow(color: Color.black.opacity(0.5), radius: 2, x: 1, y: 1) // Optional shadow
-                
-
+                .fill(Color.white)
+                .shadow(color: Color.black.opacity(0.5), radius: 2, x: 1, y: 1)
         )
-//        .border(Color.black, width: 3) // Optional border
-//        .cornerRadius(40)
     }
 }
 
