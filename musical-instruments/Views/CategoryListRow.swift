@@ -25,7 +25,8 @@ struct CategoryListRow: View {
                 .padding(.trailing, 20)
                 .foregroundColor(.black.opacity(0.7)) // Optional: set text color
 //                .border(.black, width: 1)
-                .tracking(4)
+                .tracking(3)
+                .multilineTextAlignment(.leading)
                 
                 
             

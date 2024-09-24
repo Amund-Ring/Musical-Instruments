@@ -6,7 +6,7 @@
             {
                 "name": "Guitar",
                 "image": "guitar",
-                "description": "A stringed musical instrument."
+                "description": "A stringed musical instrument.\n\nThe guitar is one of the most versatile instruments, used across many musical genres from classical to rock. With six strings, it produces a wide range of tones, offering musicians the ability to create both melodic and rhythmic parts."
             },
             {
                 "name": "Violin",

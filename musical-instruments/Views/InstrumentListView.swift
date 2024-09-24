@@ -37,11 +37,13 @@ struct InstrumentListView: View {
                                     Image(instrument.image)
                                         .resizable()
                                         .aspectRatio(contentMode: .fit)
+                                        .cornerRadius(8)
                                     Text(instrument.name)
                                         .font(.headline)
                                         .foregroundColor(.black.opacity(0.7))
                                 }
                                 .padding(6)
+                                .padding(.bottom, 3)
                                 .background(Color.white)
                                 .cornerRadius(8)
                                 .shadow(radius: 5)
@@ -50,6 +52,7 @@ struct InstrumentListView: View {
                         }
                     }
                 }
+                .padding(.top, 20)
                 .navigationTitle(category.name)
                 .navigationBarTitleDisplayMode(.inline)
                 .toolbar {

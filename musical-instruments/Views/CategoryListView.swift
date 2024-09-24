@@ -23,23 +23,26 @@ struct CategoryListView: View {
                 Color.brown.opacity(0.1)
                     .edgesIgnoringSafeArea(.all)
                 
-                VStack (spacing: 20) {
-                    
-                    Text("Instrument Categories")
-                        .font(.system(.title, design: .rounded)).opacity(0.7)
-                        .fontWeight(.medium)
-                        .padding()
-                    
-                    ForEach(categories) { category in
-                        NavigationLink(destination: InstrumentListView(category: category)) {
-                            CategoryListRow(category: category)
+                ScrollView {
+                    VStack (spacing: 20) {
+                        
+                        Text("Instrument Categories")
+                            .font(.system(size: 32, design: .rounded)).opacity(0.7)
+                            .fontWeight(.medium)
+                            .padding()
+                        
+                        ForEach(categories) { category in
+                            NavigationLink(destination: InstrumentListView(category: category)) {
+                                CategoryListRow(category: category)
+                            }
                         }
+                        
+                        Spacer()
                     }
+                    .padding(20)
                     
-                    Spacer()
                 }
-                .padding(20)
-                
+            
             }
             //hide navigationtitle
             .navigationTitle("Categories")

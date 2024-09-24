@@ -19,7 +19,7 @@ struct DetailView: View {
             ScrollView{
                 VStack() {
                     Text(instrument.name)
-                        .font(.system(.title, design: .rounded))
+                        .font(.system(.title, design: .rounded)).opacity(0.7)
                         .fontWeight(.medium)
                         .padding()
                     
@@ -44,6 +44,7 @@ struct DetailView: View {
                     
                     
                 }
+                .padding(.top, 20)
             }
             
         }
@@ -51,5 +52,5 @@ struct DetailView: View {
 }
 
 #Preview {
-    DetailView(instrument: Instrument(name: "Guitar", image: "guitar", description: "A stringed musical instrument."))
+    DetailView(instrument: Instrument(name: "Guitar", image: "guitar", description: "A stringed musical instrument.\n\nThe guitar is one of the most versatile instruments, used across many musical genres from classical to rock. With six strings, it produces a wide range of tones, offering musicians the ability to create both melodic and rhythmic parts."))
 }
