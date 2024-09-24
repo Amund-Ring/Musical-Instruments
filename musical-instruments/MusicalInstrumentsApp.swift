@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct musical_instrumentsApp: App {
+struct MusicalInstrumentsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CategoryListView()
         }
     }
 }

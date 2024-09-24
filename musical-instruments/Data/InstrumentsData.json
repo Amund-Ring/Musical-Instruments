@@ -1,0 +1,146 @@
+[
+    {
+        "name": "String Instruments",
+        "image": "string_instruments",
+        "instruments": [
+            {
+                "name": "Guitar",
+                "image": "guitar",
+                "description": "A stringed musical instrument."
+            },
+            {
+                "name": "Violin",
+                "image": "violin",
+                "description": "A wooden chordophone."
+            },
+            {
+                "name": "Cello",
+                "image": "cello",
+                "description": "A large string instrument with a deep sound."
+            },
+            {
+                "name": "Double Bass",
+                "image": "double_bass",
+                "description": "The largest string instrument in the orchestra."
+            },
+            {
+                "name": "Harp",
+                "image": "harp",
+                "description": "A multi-stringed instrument played by plucking."
+            },
+            {
+                "name": "Mandolin",
+                "image": "mandolin",
+                "description": "A stringed instrument with a teardrop shape."
+            }
+        ]
+    },
+    {
+        "name": "Percussion Instruments",
+        "image": "percussion_instruments",
+        "instruments": [
+            {
+                "name": "Drums",
+                "image": "drums",
+                "description": "A musical instrument played by striking."
+            },
+            {
+                "name": "Tambourine",
+                "image": "tambourine",
+                "description": "A musical instrument consisting of a frame."
+            },
+            {
+                "name": "Conga",
+                "image": "conga",
+                "description": "A tall, narrow, single-headed drum."
+            },
+            {
+                "name": "Bongos",
+                "image": "bongos",
+                "description": "A pair of small, open-bottomed drums."
+            },
+            {
+                "name": "Xylophone",
+                "image": "xylophone",
+                "description": "A percussion instrument with wooden bars."
+            },
+            {
+                "name": "Timpani",
+                "image": "timpani",
+                "description": "Kettle drums that can be tuned to different pitches."
+            }
+        ]
+    },
+    {
+        "name": "Woodwind Instruments",
+        "image": "woodwind_instruments",
+        "instruments": [
+            {
+                "name": "Flute",
+                "image": "flute",
+                "description": "A woodwind instrument that produces sound by air."
+            },
+            {
+                "name": "Clarinet",
+                "image": "clarinet",
+                "description": "A single-reed woodwind instrument."
+            },
+            {
+                "name": "Saxophone",
+                "image": "saxophone",
+                "description": "A brass instrument with a single-reed mouthpiece."
+            },
+            {
+                "name": "Oboe",
+                "image": "oboe",
+                "description": "A double-reed woodwind instrument."
+            },
+            {
+                "name": "Bassoon",
+                "image": "bassoon",
+                "description": "A double-reed woodwind instrument with a low range."
+            },
+            {
+                "name": "Recorder",
+                "image": "recorder",
+                "description": "A woodwind musical instrument of the group known as fipple flutes."
+            }
+        ]
+    },
+    {
+        "name": "Brass Instruments",
+        "image": "brass_instruments",
+        "instruments": [
+            {
+                "name": "Trumpet",
+                "image": "trumpet",
+                "description": "A brass instrument with a flared bell."
+            },
+            {
+                "name": "Trombone",
+                "image": "trombone",
+                "description": "A brass instrument with a sliding mechanism."
+            },
+            {
+                "name": "French Horn",
+                "image": "french_horn",
+                "description": "A brass instrument with a coiled shape."
+            },
+            {
+                "name": "Tuba",
+                "image": "tuba",
+                "description": "The largest brass instrument with a deep sound."
+            },
+            {
+                "name": "Cornet",
+                "image": "cornet",
+                "description": "A brass instrument similar to the trumpet."
+            },
+            {
+                "name": "Euphonium",
+                "image": "euphonium",
+                "description": "A brass instrument with a wide bore."
+            }
+        ]
+    }
+]
