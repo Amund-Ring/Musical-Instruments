@@ -10,6 +10,7 @@ import SwiftUI
 struct CategoryListView: View {
     
     @State private var categories: [Category] = []
+    let dataService = DataService();
     
     let columns = [
         GridItem(.flexible()),
@@ -50,7 +51,7 @@ struct CategoryListView: View {
     }
     
     private func loadCategories() {
-        categories = DataService.loadData()
+        categories = dataService.loadData()
     }
 }
 

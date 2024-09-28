@@ -41,5 +41,5 @@ struct CategoryListRow: View {
 }
 
 #Preview {
-    CategoryListRow(category: Category(name: "String Instruments", image: "image_name", instruments: []))
+    CategoryListRow(category: Category(name: "String Instruments", image: "string_instruments", instruments: []))
 }
