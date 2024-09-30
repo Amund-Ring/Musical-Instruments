@@ -1,3 +1,7 @@
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white)
+<br/>
+
 # Musical Instruments App 🎶
 
 This project is a SwiftUI-based iOS app that displays a collection of musical instruments grouped into categories. Users can browse different categories, view instruments, and explore detailed descriptions and images of each instrument. The app reads and parses data from a local JSON file to dynamically populate the interface.
